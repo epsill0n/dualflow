@@ -23,7 +23,7 @@ For example, if the maximal capacities $\left(\mathcal{C}\right)$ and the set of
 
 $$
 \begin{aligned}
-\mathcal{C} &= \{ 2, 2, 2, 2, 1 \} \\[0.7em]
+\mathcal{C} &= \{ 2, 2, 2, 2, 1 \} \\
 \mathcal{V} &= \{ v_1, v_2, v_3, v_4, v_5, v_6, v_7 \}, \\
 v_1 &= \langle 2, 2, 0, 0, 0 \rangle, \\
 v_2 &= \langle 0, 0, 2, 2, 0 \rangle, \\
